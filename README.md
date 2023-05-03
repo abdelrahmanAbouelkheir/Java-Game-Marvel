@@ -25,9 +25,9 @@ position.
 Champions are the fighters that each player will form his team from. Each champion will have
 a certain type which influences how the champion deals damage to other types as well as how
 much damage it will receive from them. The available types are:-
-• Heroes: they deal extra damage when attacking villains.
-• Villains: they deal extra damage when attacking heroes.
-• Anti-Heroes: when being attacked or attacking a hero or villain, the antihero will always
+* Heroes: they deal extra damage when attacking villains.
+* Villains: they deal extra damage when attacking heroes.
+* Anti-Heroes: when being attacked or attacking a hero or villain, the antihero will always
 act as the opposite type. If attacking an antihero, damage is calculated normally.
 ### Champion attributes and characteristics
 * Health points: Represents the life of the champion. As long as the value of this attribute
@@ -59,7 +59,7 @@ Possible actions that can be done by a champion during his turn:
  * Use Leader Ability (only if champion is the player’s chosen leader)
  ### Abilities
 These are special attacks that a champion can use. They are categorized under the following
-categories:-
+categories:
 1. Damaging abilities: Abilities that deal damage to the opponent champion(s) or covers.
 2. Healing abilities: Abilities that restore health points to friendly champion(s).
 3. Effect abilities: Abilities that can empower or weaken their targets by applying different
