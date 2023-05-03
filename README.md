@@ -31,7 +31,34 @@ much damage it will receive from them. The available types are:-
 • Villains: they deal extra damage when attacking heroes.
 • Anti-Heroes: when being attacked or attacking a hero or villain, the antihero will always
 act as the opposite type. If attacking an antihero, damage is calculated normally.
-
+### Champion attributes and characteristics
+• Health points: Represents the life of the champion. As long as the value of this attribute
+is bigger than zero, the champion will remain alive and can act in the game. Once the
+value of this attribute reaches zero, the champion is considered dead and hence, eliminated
+from the fight.
+• Mana: a resource that a champion uses to use his abilities. Each time a player uses an
+ability, a certain amount of mana will be consumed. Once run out, the champion cannot
+use any of his abilities.
+• Normal attack damage: The amount of damage that the champion will inflict upon
+the attacked champion while using a normal attack. This amount will be deducted from
+the attacked champion’s health points.
+• Normal attack range: The maximum number of cells that the attacker’s normal attack
+can reach the attacked champion within. If the attacked champion is standing in distance
+greater than this range, the attacker can not use a normal attack on him.
+• Speed: Determines how fast the champion is. The faster the champion, the sooner he
+can carry out his actions before other champions.
+• Condition: Represents the current ability/inability of the champion to act. The cham-
+pion can be active (can do some actions), inactive (can not do any actions until he is back
+to active), or knocked out (defeated and can not do any action till the end of the game).
+• Actions per turn: A number representing how many actions a player can do with the
+champion during each of his turns. Each action will consume a certain amount of this
+number. Once it reaches zero, no more actions can be done by this champion during this
+turn. This attribute resets each time the turn goes to the champion.
+Possible actions that can be done by a champion during his turn:
+– Move to an empty cell.
+– Do a normal attack.
+– Cast an ability.
+– Use Leader Ability (only if champion is the player’s chosen leader)
  ### Abilities
 These are special attacks that a champion can use. They are categorized under the following
 categories:-
@@ -58,4 +85,4 @@ once per battle
   2. go to src folder
   3. go to engine package
   4. run controller.java file
-![alt text](http://url/to/img.png)
+
