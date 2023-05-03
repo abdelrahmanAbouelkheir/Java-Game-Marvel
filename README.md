@@ -55,10 +55,10 @@ champion during each of his turns. Each action will consume a certain amount of 
 number. Once it reaches zero, no more actions can be done by this champion during this
 turn. This attribute resets each time the turn goes to the champion.
 Possible actions that can be done by a champion during his turn:
- 1.Move to an empty cell.
- 1. Do a normal attack.
- 1.Cast an ability.
- 1.Use Leader Ability (only if champion is the player’s chosen leader)
+ * Move to an empty cell.
+ * Do a normal attack.
+ * Cast an ability.
+ * Use Leader Ability (only if champion is the player’s chosen leader)
  ### Abilities
 These are special attacks that a champion can use. They are categorized under the following
 categories:-
