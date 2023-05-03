@@ -1,6 +1,6 @@
 # Java-Game-Marvel
 
-##Decription
+## Decription
 .A 2-player 2d grid where each player chooses three marvel champions.Each champion has powers and unique abilities 
 To run game
   1. import project to eclipse IDE
