@@ -2,17 +2,12 @@
 <p float="left">
   <img src="https://github.com/abdelrahman32002/Java-Game-Marvel/blob/main/images/143846.png?raw=true" width="400" height="350" />
  <img src="https://github.com/abdelrahman32002/Java-Game-Marvel/blob/main/images/2.png?raw=true" width="400" height="350" />
-  <img src="https://github.com/abdelrahman32002/Java-Game-Marvel/blob/main/images/3.png?raw=true" width="400" height="350" />
+  <img src="https://github.com/abdelrahman32002/Java-Game-Marvel/blob/main/images/6.png?raw=true" width="400" height="350" />
  <img src="https://github.com/abdelrahman32002/Java-Game-Marvel/blob/main/images/9.png?raw=true" width="400" height="350" />
 </p>
 
 
 
-
-
-![](https://github.com/abdelrahman32002/Java-Game-Marvel/edit/main/images/2.png)
-![](https://github.com/abdelrahman32002/Java-Game-Marvel/edit/main/packages/images/3.png)
-![](https://github.com/abdelrahman32002/Java-Game-Marvel/edit/main/images/9.png)
 
 # Java-Game-Marvel
 
