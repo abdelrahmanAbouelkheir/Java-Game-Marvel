@@ -79,11 +79,11 @@ At the beginning of the battle, each player promotes one of his champions to be 
 his team. The leader will then receive a special ability based on his type that can be used only
 once per battle
 ## Implemtation
-  1.MVC
-  2.Java
-  3.JavaFX & Spring
-  4.Object Oriented Features
-  5.Data Structures
+  1. MVC
+  2. Java
+  3. JavaFX & Spring
+  4. Object Oriented Features
+  5. Data Structures
 ## To run game
   1. import project to eclipse IDE
   2. go to src folder
